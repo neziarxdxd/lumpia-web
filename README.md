@@ -1,2 +1,0 @@
-# lumpia-web
-yummy lumpia
